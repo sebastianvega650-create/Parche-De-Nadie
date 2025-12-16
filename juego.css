@@ -285,7 +285,7 @@ button{
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 784px;
+    height: 550px;
     color: white;
     display: flex;
     flex-direction: column;
@@ -310,7 +310,7 @@ button{
 }
 .tarjeta{
     background-color: var(--color-avanax);
-    height: 501px;
+    height: 200px;
     width: 296px;
     border-radius: 10px;
     padding: 20px;
